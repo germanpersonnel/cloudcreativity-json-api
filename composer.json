@@ -1,5 +1,5 @@
 {
-    "name": "cloudcreativity/json-api",
+    "name": "germanpersonnel/cloudcreativity-json-api",
     "description": "Framework agnostic JSON API serialization and deserialization.",
     "keywords": [
         "jsonapi.org",
